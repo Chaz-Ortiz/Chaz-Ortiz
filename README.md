@@ -1,6 +1,6 @@
 # Hi, I'm Chaz 👋
 
-🎓 Computer Science student at UTSA
-💻 Studying Software Engineering, Data Science, and Cyber Operations
-🏅 A.A. Economics, A.S. Mechanical Engineering. 
+🎓 Computer Science student at UTSA. <br/>
+💻 Studying Software Engineering, Data Science, and Cyber Operations. <br/>
+🏅 A.A. Economics, A.S. Mechanical Engineering. <br/>
 
