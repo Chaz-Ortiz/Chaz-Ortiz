@@ -1,16 +1,6 @@
 # Hi, I'm Chaz 👋
 
-<!--
-**Chaz-Ortiz/Chaz-Ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🎓 Computer Science student at UTSA
 💻 Studying Software Engineering, Data Science, and Cyber Operations
 🏅 A.A. Economics, A.S. Mechanical Engineering. 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
