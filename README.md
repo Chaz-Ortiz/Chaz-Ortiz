@@ -1,4 +1,4 @@
-# 🌎 Hello world, I'm Chaz!
+# 🌎 Hello world, I'm Chaz Ortiz!
 💻 Computer Science student at UTSA. Concentration: Software Engineering <br>🎓 A.A. Economics, A.S. Mechanical Engineering.
 
 # 🛠️ Tech Stack:
